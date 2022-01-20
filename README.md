@@ -1,5 +1,5 @@
 # mapCreator
-A script that downloads OSM tiles and stitches them to a single jpeg map. Based on [osm_download](https://github.com/kmarif/osm_download) script.
+A script that downloads OSM tiles and stitches them to a single jpeg map. Based on [osm_download](https://github.com/maxolasersquad/osm_download) script.
 Main source of tiles is the [4umaps](http://www.4umaps.com) provider, but it can be changed to other tile servers in the ini file.
 
 ## How it works
